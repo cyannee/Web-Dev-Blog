@@ -1,0 +1,24 @@
+h1{
+    color:darkcyan;
+}
+
+h2{
+    color:olivedrab
+}
+
+h3{
+    color:darkolivegreen;
+}
+
+img{
+    border-radius: 50%;
+}
+
+img {
+    max-width: 100%;
+    height: 40%;
+  }
+
+ul{
+    color:saddlebrown
+}
